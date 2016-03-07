@@ -18,7 +18,7 @@ For each potential improvement found, a comment is added to the document.
 #Running
 Go to the "techDocStyleChecker" module and run "checkStyle()".  
 
-Assigning to a Hotkey
+###Assigning to a Hotkey
 1. Word Options -> Customize Ribbon
 2. Find "Keyboard shortcuts" and click the "Customize" button
 3. In "Categories" select "Macros"
@@ -27,13 +27,13 @@ Assigning to a Hotkey
 5. Press key combination
 6. Click "Assign"
 
-Adding to Quick Access Toolbar
+###Adding to Quick Access Toolbar
 1. Word Options -> Quick Access Toolbar
 2. Set "Choose commands from" to "Macros"
 3. Add "Normal.techDocStyleChcker.checkStyle()" to Quick access
 "checkStyle " can be assigned to a hot-key, or a menu or 
 
-Adding to Ribbon
+###Adding to Ribbon
 1. Word Options -> Customize Ribbon
 2. Set "Choose commands from" to "Macros"
 3. Choose tab, and click "New Group"
