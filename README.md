@@ -11,7 +11,7 @@ For each potential improvement found, a comment is added to the document.
 #Installation
 1. Enable the developer ribbon:
      Word Options -> Customize Ribbon -> Make sure "Developer" is checked
-2. On the main screen go to the "Developer" ribbon and click "visual Basic".
+2. On the main screen go to the "Developer" ribbon and click "Visual Basic".
 3. Under Normal -> Modules, right-click and select "Import File"
 4. A module called "techDocStyleChecker" will appear
 
@@ -31,7 +31,6 @@ Go to the "techDocStyleChecker" module and run "checkStyle()".
 1. Word Options -> Quick Access Toolbar
 2. Set "Choose commands from" to "Macros"
 3. Add "Normal.techDocStyleChcker.checkStyle()" to Quick access
-"checkStyle " can be assigned to a hot-key, or a menu or 
 
 ###Adding to Ribbon
 1. Word Options -> Customize Ribbon
